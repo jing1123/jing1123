@@ -6,7 +6,7 @@
 - I am Jing in Taiwan
 - I like to learn new things.
 - I have been learning C# script for unity, C, python, php, HTML , CSS and so on.
-- Noy very perfessional but I will keep learning.
+- Not very perfessional but I will keep learning.
 
 <!---
 jing1123/jing1123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
